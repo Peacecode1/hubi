@@ -5,4 +5,10 @@
 	<groupId>com.learning.java</groupId>
 	<artifactId>JavaProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+	<properties>
+		<maven.compiler.source>1.14</maven.compiler.source>
+		<maven.compiler.target>1.14</maven.compiler.target>
+	</properties>
+
 </project>
